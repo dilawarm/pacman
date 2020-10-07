@@ -5,6 +5,8 @@ Minimax with Alpha-beta pruning for Pacman.
 
 This code is written as an assignment for the course __TDT4136 - Introduction to Artificial Intelligence__ :school:
 
+The agents are implemented in `multiAgents.py`. For more information, visit http://ai.berkeley.edu/multiagent.html
+
 ## How to run
 ```sh
 git clone https://github.com/dilawarm/pacman.git
